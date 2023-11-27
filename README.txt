@@ -16,7 +16,8 @@ I've crafted this interactive CV using HTML, CSS, and Bootstrap to showcase my s
 - Interactive elements powered by Bootstrap for a seamless user experience.
 
 ## How to View
-Feel free to explore my CV by visiting [My CV Webpage](https://your-github-username.github.io/your-repository-name/)!
+Feel free to explore my CV by visiting [My CV Webpage](https://mafikaj.github.io/MyCV/)!
+
 
 ## Get in Touch
 If you have any questions, feedback, or opportunities for collaboration, don't hesitate to reach out. You can find my contact details on the webpage.
